@@ -23,7 +23,7 @@ pipeline {
         }
        stage('BugFixComplete') {
             steps {
-                echo 'Bug Fix completed'
+                echo 'Bug Fix completed--New'
             }
         }
     }
